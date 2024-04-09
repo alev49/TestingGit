@@ -2,5 +2,6 @@
 
 int main() {
 
-	printf("Yo\n");
+	printf("Yo mama\n");
+
 }
